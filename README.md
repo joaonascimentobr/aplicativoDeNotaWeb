@@ -51,7 +51,6 @@ O aplicativo estará disponível para as seguintes plataformas:
 *(Adicione imagens ou GIFs do aplicativo aqui para atrair mais visualizações.)*
 ![Texto alternativo](caminho/para/a/imagem)
 
-
 ---
 
 ## 🛠️ **Tecnologias Utilizadas**
